@@ -25,7 +25,7 @@ REST API supporting multiple stores with products, categories, users and orders,
 MVP that helps freelancers and small businesses create and manage commercial quotes, with server-side PDF generation.
 `Java` `Spring Boot` `Supabase (Auth + RLS)` `OpenAPI/Swagger`
 
-**[Portfolio](https://github.com/matheuzzx/REPO-AQUI)**
+**[Portfolio](https://portfolio-ruddy-five-14.vercel.app/)**
 My personal portfolio website.
 `React` `TypeScript` `CSS`
 
